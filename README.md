@@ -1,7 +1,7 @@
 <h1 align="center">Dean Lofts</h1>
 <h3 align="center">I'm a freelancer with a keen interest in Technology,</h3>
 
-- 🎵 My music website: [Loftwah The Beatsmiff](https://www.beatsmiff.com.au/)
+- 🎵 My music website: [Loftwah The Beatsmiff](https://www.beatsmiff.com)
 
 <p align="center">
 <a href="https://twitter.com/loftwah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ruxton" height="20" width="20" /></a>
