@@ -1,8 +1,10 @@
 <h1 align="center">Dean Lofts</h1>
-<h3 align="center">I'm a freelancer with a keen interest in Technology,</h3>
-<h4 align="center">I am the new Linux admin for Jobman</h4>
+<h3 align="center">I'm a dude from Perth, Western Australia with a keen interest in Technology.</h3>
 
-- 🎵 My music website: [Loftwah The Beatsmiff](https://www.beatsmiff.com)
+<h4>My Sites</h4>
+- [Loftwah The Beatsmiff](https://www.beatsmiff.com)
+- [WPShark](https://www.wpshark.com.au)
+- [Lofts.sh](https://blog.lofts.sh)
 
 <p align="center">
 <a href="https://twitter.com/loftwah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ruxton" height="20" width="20" /></a>
