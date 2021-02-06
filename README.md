@@ -2,6 +2,8 @@
 
 ## Hi, I'm Dean Lofts, a Systems Engineer, Architect, Developer, or whatever you want to call it 🚀 from Rockingham, Western Australia.
 
+<iframe src="https://open.spotify.com/embed/track/0kZ9V53HacUIifroYDt5Rv" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### My Sites
 
 - [Loftwah The Beatsmiff](https://www.beatsmiff.com)
