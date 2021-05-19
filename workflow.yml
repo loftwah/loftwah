@@ -21,9 +21,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_animated: yes
-          config_timezone: Australia/Perth
+          config_timezone: Australia/Melbourne
           plugin_activity: yes
-          plugin_activity_days: 14
+          plugin_activity_days: 30
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_followup: yes
