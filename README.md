@@ -25,7 +25,7 @@ class Dean():
         ]
     def frameworks(self):
         return [
-            'Django', 'Laravel', 'FastApi',
+            'Django', 'Laravel', 'FastAPI',
             'React', 'WordPress', 'Boostrap'
         ]
     def developer_tools(self):
