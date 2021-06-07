@@ -20,8 +20,8 @@ class Dean():
         self.name = 'Dean Lofts'
         self.language = ['English']
         self.code = [
-            'Python', 'Javascript',
-            'Typescript', 'HTML', 'PHP'
+            'Python', 'JavaScript',
+            'TypeScript', 'HTML', 'PHP'
         ]
     def frameworks(self):
         return [
