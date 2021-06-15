@@ -2,13 +2,11 @@
 
 ## Hi, I'm Dean Lofts, a Systems Engineer, Architect, Developer, or whatever you want to call it 🚀 from Sunbury, Victoria, Australia.
 
-```html
-<iframe src="https://open.spotify.com/embed/track/0kZ9V53HacUIifroYDt5Rv" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-```
-
 ### My Sites
 
 - [Loftwah The Beatsmiff](https://www.beatsmiff.com)
+- [BTSMF](https://btsmf.link)
+- [Linktree](https://linktr.ee/beatsmiff)
 - [WPShark](https://www.wpshark.com.au)
 - [Lofts.sh](https://blog.lofts.sh)
 
