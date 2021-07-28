@@ -23,12 +23,12 @@ class Dean():
         ]
     def frameworks(self):
         return [
-            'Django', 'Laravel', 'FastAPI',
+            'Django', 'FastAPI',
             'React', 'WordPress', 'Boostrap'
         ]
     def developer_tools(self):
         return [
-            'Docker', 'Docker Swarm', 'GitHub','Nginx','Linux'
+            'Ansible, Docker', 'Docker Swarm', 'GitHub','Nginx','Linux'
         ]
 ```
 
