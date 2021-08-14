@@ -6,12 +6,12 @@
 
 ### My Sites
 
-- [Loftwah The Beatsmiff](https://www.beatsmiff.com)
 - [BTSMF](https://btsmf.link)
-- [news@lofts.sh](https://freshrss.lofts.sh)
 - [Linktree](https://linktr.ee/beatsmiff)
-- [WPShark](https://www.wpshark.com.au)
-- [Lofts.sh](https://blog.lofts.sh)
+- [Lofts.sh](https://lofts.sh)
+- [Loftwah The Beatsmiff](https://beatsmiff.com)
+- [news@lofts.sh](https://freshrss.lofts.sh)
+- [WPShark](https://wpshark.com.au)
 
 ### About Me
 
