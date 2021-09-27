@@ -1,14 +1,13 @@
 # Dean Lofts - GitHub Profile
 
-## Hi, I'm Dean Lofts, a Systems Engineer, Architect, Developer, or whatever you want to call it 🚀 from Sunbury, Victoria, Australia.
-
-[Ayok - Get That Smoke ft. Xecutive (Prod. by Loftwah) - YouTube](https://www.youtube.com/watch?v=xyn1FxhQ26g)
+## Hi, I'm Dean Lofts, a Systems Engineer, Architect, Developer, or whatever you want to call it 🚀 based in Victoria, Australia.
 
 ### My Sites
 
 - [BTSMF](https://btsmf.link)
-- [Linktree](https://linktr.ee/beatsmiff)
+- [Linktree](https://linktr.ee/beatsmiff) Link in Bio
 - [Lofts.sh](https://lofts.sh)
+- [Loftwah.tv](https://loftwah.tv)
 - [Loftwah The Beatsmiff](https://beatsmiff.com)
 - [news@lofts.sh](https://freshrss.lofts.sh)
 - [WPShark](https://wpshark.com.au)
