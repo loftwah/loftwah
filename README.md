@@ -2,6 +2,8 @@
 
 ## Hi, I'm Dean Lofts, a Systems Engineer, Architect, Developer, or whatever you want to call it 🚀 based in Victoria, Australia.
 
+I put so much effort into learning React and find myself regularly wokring with Vue instead 
+
 ### My Sites
 
 - [BTSMF](https://btsmf.link)
