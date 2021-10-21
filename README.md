@@ -11,7 +11,6 @@ I put so much effort into learning React and find myself regularly wokring with 
 - [Lofts.sh](https://lofts.sh)
 - [Loftwah.tv](https://loftwah.tv)
 - [Loftwah The Beatsmiff](https://beatsmiff.com)
-- [news@lofts.sh](https://freshrss.lofts.sh)
 - [WPShark](https://wpshark.com.au)
 
 ### About Me
