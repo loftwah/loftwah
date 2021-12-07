@@ -1,17 +1,15 @@
 # Dean Lofts - GitHub Profile
 
-## Hi, I'm Dean Lofts, a Systems Engineer, Architect, Developer, or whatever you want to call it 🚀 based in Victoria, Australia.
-
-I put so much effort into learning React and find myself regularly wokring with Vue instead 
+## Hi, I'm Dean Lofts and I am brilliantly lazy.
 
 ### My Sites
 
-- [BTSMF](https://btsmf.link)
-- [Linktree](https://linktr.ee/beatsmiff) Link in Bio
-- [Lofts.sh](https://lofts.sh)
-- [Loftwah.tv](https://loftwah.tv)
-- [Loftwah The Beatsmiff](https://beatsmiff.com)
-- [WPShark](https://wpshark.com.au)
+- [BTSMF](https://btsmf.link) - all things music here, I produce Hip Hop mostly
+- [Linktree](https://linktr.ee/beatsmiff) - Link in Bio with the OG of Link in Bios
+- [Lofts.sh](https://lofts.sh) - all things tech and professional here, I like to pretend I am professional
+- [Loftwah.tv](https://loftwah.tv) - directly hit a YouTube playlist of mine called Sample Fodder
+- [Loftwah The Beatsmiff](https://beatsmiff.com) - my official music website and online store
+- [WPShark](https://wpshark.com.au) - this was kinda my freelance thing when I ended up out of work
 
 ### About Me
 
@@ -26,7 +24,7 @@ class Dean():
         ]
     def frameworks(self):
         return [
-            'Django', 'FastAPI',
+            'Appwrite', 'FastAPI',
             'React', 'WordPress', 'Boostrap'
         ]
     def developer_tools(self):
