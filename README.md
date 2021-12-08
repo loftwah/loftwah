@@ -2,6 +2,8 @@
 
 ## Hi, I'm Dean Lofts and I am brilliantly lazy.
 
+![Loftwah The Beatsmiff](https://pbs.twimg.com/profile_banners/1192091185/1638922330/1500x500 "Loftwah The Beatsmiff")
+
 ### My Sites
 
 - [BTSMF](https://btsmf.link) - all things music here, I produce Hip Hop mostly
