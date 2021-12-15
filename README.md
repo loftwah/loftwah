@@ -31,7 +31,8 @@ class Dean():
         ]
     def developer_tools(self):
         return [
-            'Ansible', 'Docker', 'Docker Swarm', 'GitHub','Nginx','Linux'
+            'Ansible', 'Docker', 'Docker Swarm',
+            'GitHub','Nginx','Linux'
         ]
 ```
 
