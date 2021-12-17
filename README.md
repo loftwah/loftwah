@@ -44,7 +44,7 @@ English
 
 ## Movies
 
-[American History X](https://www.imdb.com/title/tt0120586/), [Anchorman](https://www.imdb.com/title/tt0357413/), Austin Powers: International Man of Mystery, Baseketball, Beavis and Butthead Do America, Beerfest, Black Hawk Down, Choppepr, Clerks, Dogma, Dude Where's My Car?, End of Watch, Fight Club, Full Metal Jacket, Gone in 60 Seconds, Goodfellas, Hackers, Happy Gilmore, How High, Hustle and Flow, Jarhead, Jay and Silent Bob Strike Back, John Wick, Liar Liar, Mortal Kombat, Reservoir Dogs, Romper Stomper, Scarface, Seven, Star Wars, Super Troopers, Superbad, Takedown, Terminator 2: Judgement Day, The Castle, The Departed, The Football Factory, The Matrix, The Rock, The Sixth Sense, The Social Network, Training Day, The Truman Show, The Usual Suspects, The Warriors, War Dogs, Wayne's World, We're The Millers, and Zoolander.
+[American History X](https://www.imdb.com/title/tt0120586/), [Anchorman](https://www.imdb.com/title/tt0357413/), Austin Powers: International Man of Mystery, Baseketball, Beavis and Butthead Do America, Beerfest, Black Hawk Down, Chopper, Clerks, Dogma, Dude Where's My Car?, End of Watch, Fight Club, Full Metal Jacket, Gone in 60 Seconds, Goodfellas, Hackers, Happy Gilmore, How High, Hustle and Flow, Jarhead, Jay and Silent Bob Strike Back, John Wick, Liar Liar, Mortal Kombat, Reservoir Dogs, Romper Stomper, Scarface, Seven, Star Wars, Super Troopers, Superbad, Takedown, Terminator 2: Judgement Day, The Castle, The Departed, The Football Factory, The Matrix, The Rock, The Sixth Sense, The Social Network, Training Day, The Truman Show, The Usual Suspects, The Warriors, War Dogs, Wayne's World, We're The Millers, and Zoolander.
 
 ## Music
 
