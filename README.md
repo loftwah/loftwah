@@ -32,11 +32,11 @@ Languages I speak or use.
 
 ### Programming
 
-Bash, CSS, HTML, JavaScript, PHP, Python, and TypeScript.
+Bash, CSS, Flutter, HTML, JavaScript, PHP, Python, and TypeScript.
 
 ### Uses
 
-Ansible, Appwrite, AWS, Bootstrap, Cloudflare, DigitalOcean, Docker, Docker Swarm, FastAPI, GitHub, Grammarly, Koji, Linux, Nginx, React, Streamlabs OBS, Studio One, Ubuntu, VSCode, Windows, Wireguard, WSL2, WordPress, and zsh.
+Ansible, Appwrite, AWS, Bootstrap, Canva, Cloudflare, CyberChef, DigitalOcean, Docker, Docker Swarm, FastAPI, GitHub, Grammarly, Koji, Linux, Nginx, PhotoPea, React, Streamlabs OBS, Studio One, Ubuntu, VSCode, Windows, Wireguard, WSL2, WordPress, and zsh.
 
 ### Speaking and Writing
 
