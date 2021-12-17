@@ -62,6 +62,7 @@ Ayok, Berner, Bitter Belief, Bluntfield, Capcizza The Gryphon, Complete, Cortext
 ## Portfolio
 
 - [Video Portfolio](https://www.youtube.com/playlist?list=PLgr1VpT986yP4I9bKEWWWssKL2ajRubPM)
+- [Web Development Portfolio](https://lofts.sh/my-portfolio-web/)
 
 ## Quotes
 
