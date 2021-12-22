@@ -1,3 +1,5 @@
+![Header](https://camo.githubusercontent.com/fb96a2f10b0d368a3548592129992acbaa560f79b6380fe1e7ae98c1a4a5562a/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313139323039313138352f313633383932323333302f3135303078353030 "Profile Header")
+
 # Dean Lofts
 
 Hi, I'm Dean Lofts and I am brilliantly lazy. I also go by 🎹 [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as Salty Waterz, Salty Waterz 2, Day of The Guiding Light, and Such Iz Life. 🎧
@@ -5,8 +7,6 @@ Hi, I'm Dean Lofts and I am brilliantly lazy. I also go by 🎹 [Loftwah The Bea
 ![Dean Lofts](https://beatsmiff.com/wp-content/uploads/2021/07/19922556.png "Dean Lofts")
 
 I can be described as somebody who is confident, friendly, informal and optimistic. 😎
-
-![Header](https://camo.githubusercontent.com/fb96a2f10b0d368a3548592129992acbaa560f79b6380fe1e7ae98c1a4a5562a/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313139323039313138352f313633383932323333302f3135303078353030 "Profile Header")
 
 Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) 💲
 
