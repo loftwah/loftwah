@@ -57,7 +57,7 @@ Ayok, Berner, Bitter Belief, Bluntfield, Capcizza The Gryphon, Complete, Cortext
 -   [Linktree](https://linktr.ee/beatsmiff) - Link in Bio with the OG of Link in Bios
 -   [Lofts.sh](https://lofts.sh) - all things tech and professional here, I like to pretend I am professional
 -   [Loftwah.tv](https://loftwah.tv) - directly hit a YouTube playlist of mine called Sample Fodder
--   [Loftwah The Beatsmiff](https://beatsmiff.com) - my official music website and online store
+-   [Loftwah The Beatsmiff](https://beatsmiff.com) - my official music website and online store - [Powered by WordPress](https://wordpress.org)
 -   [WPShark](https://wpshark.com.au) - this was kinda my freelance thing when I ended up out of work
 
 ## Portfolio
