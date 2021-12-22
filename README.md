@@ -53,7 +53,7 @@ Ayok, Berner, Bitter Belief, Bluntfield, Capcizza The Gryphon, Complete, Cortext
 
 ### My Sites
 
--   [BTSMF](https://btsmf.link) - all things music here, I produce Hip Hop mostly [Powered by Koji](https://withkoji.com/)
+-   [BTSMF](https://btsmf.link) - all things music here, I produce Hip Hop mostly - [Powered by Koji](https://withkoji.com/)
 -   [Linktree](https://linktr.ee/beatsmiff) - Link in Bio with the OG of Link in Bios
 -   [Lofts.sh](https://lofts.sh) - all things tech and professional here, I like to pretend I am professional
 -   [Loftwah.tv](https://loftwah.tv) - directly hit a YouTube playlist of mine called Sample Fodder
