@@ -6,11 +6,11 @@ Hi, I'm Dean Lofts and I am brilliantly lazy. I also go by 🎹 [Loftwah The Bea
 
 ![Dean Lofts](https://beatsmiff.com/wp-content/uploads/2021/07/19922556.png "Dean Lofts")
 
-I can be described as somebody who is confident, friendly, informal and optimistic. 😎
+I can be described as somebody who is confident, friendly, informal and optimistic. 😎 [🔈](https://lofts.sh/wp-content/uploads/2021/12/I-can-be-described-as-somebody-who-is-confident-friendly-informal-and-optimistic.mp3)
 
-Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) 💲
+Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) 💲 [🔈](https://lofts.sh/wp-content/uploads/2021/12/Please-support-what-I-do-here.mp3)
 
-## Links
+## Links [🔈](https://lofts.sh/wp-content/uploads/2021/12/My-links-include-my-blog-my-music-website-called-beatsmiff-dot-link-my-email-address-my.mp3)
 
 🌐 [Blog](https://blog.beatsmiff.com/) 🌐 [BTSMF.link](https://btsmf.link) 📧 [Email](mailto://dean@deanlofts.xyz/) 🤗 [Facebook](https://www.facebook.com/loftwah/) 👨‍💻 [GitHub](https://github.com/loftwah/) 📷 [Instagram](https://instagram.com/loftwah/) 👨‍💼 [LinkedIn](https://linkedin.com/in/deanlofts/) 🌐 [Lofts.sh](https://lofts.sh) 📺 [Loftwah.tv](https://loftwah.tv) 🌐 [Personality Type](https://www.16personalities.com/istp-personality) 📓 [Resume](https://lofts.sh/resume/) 🗨 [Snapchat](https://snapchat.com/add/beatsmiff) 🎧 [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) 🕺 [TikTok](https://tiktok.com/@beatsmiff) 🎥 [Twitch](https://twitch.com/beatsmiff) 🐦 [Twitter](https://twitter.com/loftwah) 📞 [WhatsApp](https://wa.me/+61423837782) 📹 [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
 
