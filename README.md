@@ -8,8 +8,8 @@ Hi, I'm Dean Lofts and I am brilliantly lazy. I also go by 🎹 [Loftwah The Bea
 
 I can be described as somebody who is confident, friendly, informal and optimistic. 😎 [🔈](https://lofts.sh/wp-content/uploads/2021/12/I-can-be-described-as-somebody-who-is-confident-friendly-informal-and-optimistic.mp3)
 
-💲 Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) [🔈](https://lofts.sh/wp-content/uploads/2021/12/Please-support-what-I-do-here.mp3)
-💲 Or if you must get something for you hard earned dollarydoos you can buy my boom bap drums for $2 [here](https://withkoji.com/~Beatsmiff/3jas)
+- 💲 Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) [🔈](https://lofts.sh/wp-content/uploads/2021/12/Please-support-what-I-do-here.mp3)
+- 💲 Or if you must get something for you hard earned dollarydoos you can buy my boom bap drums for $2 [here](https://withkoji.com/~Beatsmiff/3jas)
 
 ## Links [🔈](https://lofts.sh/wp-content/uploads/2021/12/My-links-include-my-blog-my-music-website-called-beatsmiff-dot-link-my-email-address-my.mp3)
 
