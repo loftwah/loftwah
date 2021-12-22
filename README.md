@@ -2,7 +2,7 @@
 
 # Dean Lofts
 
-Hi, I'm Dean Lofts and I am brilliantly lazy. I also go by 🎹 [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as Salty Waterz, Salty Waterz 2, Day of The Guiding Light, and Such Iz Life. 🎧 [🔈](https://lofts.sh/wp-content/uploads/2021/12/Hi-Im-Dean-Lofts-and-I-am-brilliantly-lazy-I-also-go-by-Loftwah-The-Beatsmiff-and-you-might.mp3)
+Hi, I'm Dean Lofts and I am brilliantly lazy. I also go by 🎹 [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧 [🔈](https://lofts.sh/wp-content/uploads/2021/12/Hi-Im-Dean-Lofts-and-I-am-brilliantly-lazy-I-also-go-by-Loftwah-The-Beatsmiff-and-you-might.mp3)
 
 ![Dean Lofts](https://beatsmiff.com/wp-content/uploads/2021/07/19922556.png "Dean Lofts")
 
