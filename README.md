@@ -1,6 +1,6 @@
 # Dean Lofts
 
-Hi, I'm Dean Lofts and I am brilliantly lazy. I also go by 🎹 [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as Salty Waterz, Salty Waterz 2, Day of The Guiding Light, and Such Iz Life.🎧
+Hi, I'm Dean Lofts and I am brilliantly lazy. I also go by 🎹 [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as Salty Waterz, Salty Waterz 2, Day of The Guiding Light, and Such Iz Life. 🎧
 
 ![Dean Lofts](https://beatsmiff.com/wp-content/uploads/2021/07/19922556.png "Dean Lofts")
 
