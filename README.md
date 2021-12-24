@@ -1,5 +1,9 @@
 ![Header](https://camo.githubusercontent.com/fb96a2f10b0d368a3548592129992acbaa560f79b6380fe1e7ae98c1a4a5562a/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313139323039313138352f313633383932323333302f3135303078353030 "Profile Header")
 
+```bash
+$ cat deanlofts.md
+```
+
 # Dean Lofts
 
 Hi, I'm Dean Lofts and I am brilliantly lazy. I also go by 🎹 [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧 [🔈](https://lofts.sh/wp-content/uploads/2021/12/Hi-Im-Dean-Lofts-and-I-am-brilliantly-lazy-I-also-go-by-Loftwah-The-Beatsmiff-and-you-might.mp3)
