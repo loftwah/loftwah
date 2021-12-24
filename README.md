@@ -15,7 +15,7 @@ git clone git@github.com:loftwah/loftwah.git
 - Make sure you are in the loftwah directory.
 
 ```bash
-$ cat deanlofts.md
+$ cat README.md
 ```
 
 ![Header](https://camo.githubusercontent.com/fb96a2f10b0d368a3548592129992acbaa560f79b6380fe1e7ae98c1a4a5562a/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f62616e6e6572732f313139323039313138352f313633383932323333302f3135303078353030 "Profile Header")
