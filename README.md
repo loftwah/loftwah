@@ -14,7 +14,7 @@ I can be described as somebody who is confident, friendly, informal and optimist
 
 ## Books
 
-[Long Walk to Freedom](https://en.wikipedia.org/wiki/Long_Walk_to_Freedom), [The Rose That Grew from Concrete (poetry collection)](https://en.wikipedia.org/wiki/The_Rose_That_Grew_from_Concrete_(poetry_collection)), [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War), [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), and [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich).
+[Long Walk to Freedom](https://en.wikipedia.org/wiki/Long_Walk_to_Freedom), [The Rose That Grew from Concrete (poetry collection)](https://en.wikipedia.org/wiki/The_Rose_That_Grew_from_Concrete_(poetry_collection)), [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War), [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich), and [Zero Day](https://www.goodreads.com/book/show/9763010-zero-day).
 
 ## Interests
 
