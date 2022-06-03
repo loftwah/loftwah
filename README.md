@@ -22,7 +22,7 @@ Arcade Games, Audio, Bass, Beat Making, Blogging, Board Games, Card Games, Codin
 
 ### Uses
 
-Android, Appwrite, AWS, Canva, Cloudflare, ChromeOS, DigitalOcean, Docker, GitHub, Google Workspace, Grammarly, Koji, Linux, MacOS, Nginx, PhotoPea, Sociamonials Ubuntu, VSCode, WordPress, and zsh.
+Android, Appwrite, AWS, Canva, Cloudflare, DigitalOcean, Docker, GitHub, Google Workspace, Grammarly, Koji, Kubernetes, Linux, MacOS, Nginx, Sociamonials, Terraform, Ubuntu, VSCode, WordPress, and zsh.
 
 ### Speaking and Writing
 
