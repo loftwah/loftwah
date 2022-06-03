@@ -53,3 +53,4 @@ English
 - "The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene
 - "I don't see myself being special; I just see myself having more responsibilities than the next man. People look to me to do things for them, to have answers." - Tupac Shakur
 - “A hacker is someone trying to figure out a way to make toast with a coffee maker” - Wau Holland
+- “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” - Aaron Swartz
