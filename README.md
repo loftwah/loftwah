@@ -10,15 +10,15 @@ I can be described as somebody who is confident, friendly, informal and optimist
 
 ## Links [🔈](https://lofts.sh/wp-content/uploads/2021/12/My-links-include-my-blog-my-music-website-called-beatsmiff-dot-link-my-email-address-my.mp3)
 
-🌐 [BTSMF.link](https://btsmf.link) 📧 [Email](mailto://dean@deanlofts.xyz/) 👨‍💻 [GitHub](https://github.com/loftwah/) 👨‍💼 [LinkedIn](https://linkedin.com/in/deanlofts/) 🌐 [Lofts.sh](https://lofts.sh) 🌐 [Personality Type](https://www.16personalities.com/istp-personality) 🎧 [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) 🎥 [Twitch](https://twitch.com/beatsmiff) 🐦 [Twitter](https://twitter.com/loftwah) 📞 [WhatsApp](https://wa.me/+61423837782) 📹 [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
+🌐 [BTSMF.link](https://btsmf.link) 📧 [Email](mailto://dean@deanlofts.xyz/) 👨‍💻 [GitHub](https://github.com/loftwah/) 👨‍💼 [LinkedIn](https://linkedin.com/in/deanlofts/) 🌐 [Lofts.sh](https://lofts.sh) 🌐 [Personality Type](https://www.16personalities.com/istp-personality) 🎧 [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) 🐦 [Twitter](https://twitter.com/loftwah) 📞 [WhatsApp](https://wa.me/+61423837782) 📹 [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
 
 ## Books
 
-[Long Walk to Freedom](https://en.wikipedia.org/wiki/Long_Walk_to_Freedom), [The Rose That Grew from Concrete (poetry collection)](https://en.wikipedia.org/wiki/The_Rose_That_Grew_from_Concrete_(poetry_collection)), [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War), [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich), and [Zero Day](https://www.goodreads.com/book/show/9763010-zero-day).
+[Long Walk to Freedom](https://en.wikipedia.org/wiki/Long_Walk_to_Freedom), [The Rose That Grew from Concrete (poetry collection)](<https://en.wikipedia.org/wiki/The_Rose_That_Grew_from_Concrete_(poetry_collection)>), [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War), [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich), and [Zero Day](https://www.goodreads.com/book/show/9763010-zero-day).
 
 ## Interests
 
-Arcade Games, Audio, Bass, Beat Making, Blogging, Board Games, Card Games, Coding, Comedy, Computers, DJing, Drumming, Friends, Games,  Guitar, Hip Hop, Listening, Making Music, Mastering, Memes, Music, Music Production, Piano, Rap, Reading, Records,  Singing, Sleeping, Songwriting, Swimming, Trivia, Video, Vinyl Scratching, and Writing.
+Arcade Games, Audio, Bass, Beat Making, Blogging, Board Games, Card Games, Coding, Comedy, Computers, DJing, Drumming, Friends, Games, Guitar, Hip Hop, Listening, Making Music, Mastering, Memes, Music, Music Production, Piano, Rap, Reading, Records, Singing, Sleeping, Songwriting, Swimming, Trivia, Video, Vinyl Scratching, and Writing.
 
 ### Uses
 
@@ -30,10 +30,10 @@ English
 
 ### My Sites
 
--   [BTSMF](https://btsmf.link) - all things music here, I produce Hip Hop mostly - [Powered by Koji](https://withkoji.com/)
--   [Linktree](https://linktr.ee/beatsmiff) - Link in Bio with the OG of Link in Bios - [Powered by Linktree](https://linktr.ee)
--   [Lofts.sh](https://lofts.sh) - all things tech and professional here, I like to pretend I am professional - [Powered by WordPress](https://wordpress.org)
--   [Loftwah The Beatsmiff](https://beatsmiff.com) - my official music website and online store - [Powered by WordPress](https://wordpress.org)
+- [BTSMF](https://btsmf.link) - all things music here, I produce Hip Hop mostly - [Powered by Koji](https://withkoji.com/)
+- [Linktree](https://linktr.ee/beatsmiff) - Link in Bio with the OG of Link in Bios - [Powered by Linktree](https://linktr.ee)
+- [Lofts.sh](https://lofts.sh) - all things tech and professional here, I like to pretend I am professional - [Powered by WordPress](https://wordpress.org)
+- [Loftwah The Beatsmiff](https://beatsmiff.com) - my official music website and online store - [Powered by WordPress](https://wordpress.org)
 
 ## Portfolio
 
