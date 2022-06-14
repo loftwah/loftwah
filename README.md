@@ -58,3 +58,4 @@ English
 - "I don't see myself being special; I just see myself having more responsibilities than the next man. People look to me to do things for them, to have answers." - Tupac Shakur
 - “A hacker is someone trying to figure out a way to make toast with a coffee maker” - Wau Holland
 - “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” - Aaron Swartz
+- "What did the five fingers say to the face? Slap!" - Dave Chappelle (Daniel Martin's impression is better)
