@@ -6,10 +6,6 @@ I can be described as somebody who is confident, friendly, informal and optimist
 
 - 💲 Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) [🔈](https://lofts.sh/wp-content/uploads/2021/12/Please-support-what-I-do-here.mp3)
 
-## I need a new job
-
-I was let go from my position last week because of business restructuring. I am looking for a new job, so if you are hiring please get in touch. My resume can be found [here](https://lofts.sh/resume).
-
 ## Links [🔈](https://lofts.sh/wp-content/uploads/2021/12/My-links-include-my-blog-my-music-website-called-beatsmiff-dot-link-my-email-address-my.mp3)
 
 🌐 [BTSMF.link](https://btsmf.link) 📧 [Email](mailto://dean@deanlofts.xyz/) 👨‍💻 [GitHub](https://github.com/loftwah/) 👨‍💼 [LinkedIn](https://linkedin.com/in/deanlofts/) 🌐 [Lofts.sh](https://lofts.sh) 🌐 [Personality Type](https://www.16personalities.com/istp-personality) 🎧 [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) 🐦 [Twitter](https://twitter.com/loftwah) 📞 [WhatsApp](https://wa.me/+61423837782) 📹 [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
