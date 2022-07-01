@@ -53,3 +53,4 @@ English
 - “A hacker is someone trying to figure out a way to make toast with a coffee maker” - Wau Holland
 - “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” - Aaron Swartz
 - "What did the five fingers say to the face? Slap!" - Dave Chappelle (Daniel Martin's impression is better)
+- "I always felt that I had to work harder than the next guy, just to do as well as the next guy. And to do better than the next guy, I had to just kill. And you know, to a certain extent, that's still with me in how I work, you know. I just... go in." - Jimmy Iovine
