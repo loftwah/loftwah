@@ -8,7 +8,7 @@ I can be described as somebody who is confident, friendly, informal and optimist
 
 ## Links [🔈](https://lofts.sh/wp-content/uploads/2021/12/My-links-include-my-blog-my-music-website-called-beatsmiff-dot-link-my-email-address-my.mp3)
 
-[BTSMF.link](https://btsmf.link) | [EdditHub LinkFree](https://linkfree.eddiehub.io/loftwah) | [Email](mailto://dean@deanlofts.xyz/) | [GitHub](https://github.com/loftwah/) | [LinkedIn](https://linkedin.com/in/deanlofts/) | [Lofts.sh](https://lofts.sh) | [Personality Type](https://www.16personalities.com/istp-personality) | [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) | [Twitter](https://twitter.com/loftwah) | [WhatsApp](https://wa.me/+61423837782) | [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
+[BTSMF.link](https://btsmf.link) | [EddieHub LinkFree](https://linkfree.eddiehub.io/loftwah) | [Email](mailto://dean@deanlofts.xyz/) | [GitHub](https://github.com/loftwah/) | [LinkedIn](https://linkedin.com/in/deanlofts/) | [Lofts.sh](https://lofts.sh) | [Personality Type](https://www.16personalities.com/istp-personality) | [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) | [Twitter](https://twitter.com/loftwah) | [WhatsApp](https://wa.me/+61423837782) | [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
 
 ## Books
 
