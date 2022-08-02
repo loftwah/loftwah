@@ -4,7 +4,7 @@ Hi, I'm Dean Lofts and I also go by 🎹 [Loftwah The Beatsmiff](https://btsmf.l
 
 I can be described as somebody who is confident, friendly, informal and optimistic. 😎
 
-- 💲 Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) [🔈](https://lofts.sh/wp-content/uploads/2021/12/Please-support-what-I-do-here.mp3)
+- 💲 Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) or on [GitHub Sponsors](https://github.com/sponsors/loftwah)
 
 ## My Links
 
