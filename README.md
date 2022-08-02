@@ -1,6 +1,6 @@
 # Dean Lofts
 
-Hi, I'm Dean Lofts and I also go by 🎹 [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as [Protektahz](https://www.youtube.com/playlist?list=OLAK5uy_kO8bRKVWIAFGFNDjVkI9NiKtHSsqGEndQ), [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧
+Hi, I'm Dean Lofts and I also go by [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as [Protektahz](https://www.youtube.com/playlist?list=OLAK5uy_kO8bRKVWIAFGFNDjVkI9NiKtHSsqGEndQ), [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧
 
 I can be described as somebody who is confident, friendly, informal and optimistic. 😎
 
