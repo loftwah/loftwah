@@ -16,7 +16,7 @@ I can be described as somebody who is confident, friendly, informal and optimist
 
 ## My Interests
 
-Arcade Games, Audio, Bass, Beat Making, Blogging, Board Games, Card Games, Coding, Comedy, Computers, DJing, Drumming, Friends, Games, Guitar, Hip Hop, Listening, Making Music, Mastering, Memes, Music, Music Production, Piano, Rap, Reading, Records, Singing, Sleeping, Songwriting, Swimming, Trivia, Video, Vinyl Scratching, and Writing.
+Arcade Games, Beat Making, Card Games, Coding, Comedy, Computers, Gaming, Music Production, Reading, Running, Sleeping, Swimming, Trivia and Writing.
 
 ### Uses
 
