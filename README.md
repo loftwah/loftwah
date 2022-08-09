@@ -6,7 +6,7 @@ Hi, I'm Dean Lofts and I also go by [Loftwah The Beatsmiff](https://btsmf.link),
 
 I can be described as somebody who is confident, friendly, informal and optimistic. 😎
 
-My personality type is ISTP-A. You can probably out a lot about the kind of person I am by reading [this](https://www.16personalities.com/istp-personality) and you can also take your own test [here](https://www.16personalities.com/free-personality-test).
+To learn more about what I'm probably like, my personality type is [ISTP-A](https://www.16personalities.com/istp-personality). You can also take your own test [here](https://www.16personalities.com/free-personality-test).
 
 ![ISTP-A](personality.png)
 
