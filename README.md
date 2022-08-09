@@ -18,7 +18,7 @@ I can be described as somebody who is confident, friendly, informal and optimist
 
 ## My Interests
 
-Arcade Games, Beat Making, Card Games, Coding, Comedy, Computers, Gaming, Music Production, Reading, Running, Sleeping, Swimming, Trivia and Writing.
+[Arcade Games](https://archive.org/details/internetarcade), [Beat Making](https://en.wiktionary.org/wiki/beatmaker), [Card Games](https://en.wikipedia.org/wiki/Card_game), [Coding](https://en.wikipedia.org/wiki/Computer_programming), [Comedy](https://en.wikipedia.org/wiki/Comedy), [Computers](https://en.wikipedia.org/wiki/Computer), [Gaming](https://en.wikipedia.org/wiki/Video_game), [Music Production](https://www.discogs.com/search/?q=beatsmiff&type=all), [Reading](https://en.wikipedia.org/wiki/Reading), [Running](https://en.wikipedia.org/wiki/Running), [Sleeping](https://www.youtube.com/watch?v=dQw4w9WgXcQ), [Swimming](https://en.wikipedia.org/wiki/Swimming), [Trivia](https://en.wikipedia.org/wiki/Trivia) and [Writing](https://en.wikipedia.org/wiki/Writing).
 
 ### Uses
 
