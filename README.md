@@ -6,11 +6,15 @@ Hi, I'm Dean Lofts and I also go by [Loftwah The Beatsmiff](https://btsmf.link),
 
 I can be described as somebody who is confident, friendly, informal and optimistic. 😎
 
+My personality type is ISTP-A. You can probably out a lot about the kind of person I am by reading [this](https://www.16personalities.com/istp-personality) and you can also take your own test [here](https://www.16personalities.com/free-personality-test).
+
+![ISTP-A](personality.png)
+
 - 💲 Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) or on [GitHub Sponsors](https://github.com/sponsors/loftwah)
 
 ## My Links
 
-[BTSMF.link](https://btsmf.link) | [EddieHub LinkFree](https://linkfree.eddiehub.io/loftwah) | [Email](mailto://dean@deanlofts.xyz/) | [GitHub](https://github.com/loftwah/) | [LinkedIn](https://linkedin.com/in/deanlofts/) | [Lofts.sh](https://lofts.sh) | [Personality Type](https://www.16personalities.com/istp-personality) | [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) | [Twitter](https://twitter.com/loftwah) | [WhatsApp](https://wa.me/+61423837782) | [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
+[BTSMF.link](https://btsmf.link) | [EddieHub LinkFree](https://linkfree.eddiehub.io/loftwah) | [Email](mailto://dean@deanlofts.xyz/) | [GitHub](https://github.com/loftwah/) | [LinkedIn](https://linkedin.com/in/deanlofts/) | [Lofts.sh](https://lofts.sh) | [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) | [Twitter](https://twitter.com/loftwah) | [WhatsApp](https://wa.me/+61423837782) | [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
 
 ## Books I Like
 
