@@ -30,13 +30,10 @@ Android, Appwrite, AWS, Canva, Cloudflare, DigitalOcean, Docker, GitHub, Google 
 
 ### Speaking, Typing and Writing
 
-Speaks: English
-
-Average WPM: 109wpm
-
-Highest WPM: 120wpm
-
-Highest accuracy: 100%
+*Speaks:* English
+*Average WPM:* 109wpm
+*Highest WPM:* 120wpm
+*Highest accuracy:* 100%
 
 > *Note:* Tests conducted on [Monkeytype](https://monkeytype.com/)
 
