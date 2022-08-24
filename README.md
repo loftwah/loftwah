@@ -59,3 +59,4 @@ English
 - “A hacker is someone trying to figure out a way to make toast with a coffee maker” - Wau Holland
 - “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” - Aaron Swartz
 - "I always felt that I had to work harder than the next guy, just to do as well as the next guy. And to do better than the next guy, I had to just kill. And you know, to a certain extent, that's still with me in how I work, you know. I just... go in." - Jimmy Iovine
+- “I know the dark things that people have intentions for when it comes to using information nefariously and I do must best to interrupt that and I’m going to continue to. I’m not afraid of anybody and If I’m called to take care of that its game over for that person or group.” - Gummo
