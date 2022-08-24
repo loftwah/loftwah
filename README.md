@@ -28,9 +28,17 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 Android, Appwrite, AWS, Canva, Cloudflare, DigitalOcean, Docker, GitHub, Google Workspace, Grammarly, Koji, Kubernetes, Linux, MacOS, Nginx, Sociamonials, Terraform, Ubuntu, VSCode, WordPress, and zsh.
 
-### Speaking and Writing
+### Speaking, Typing and Writing
 
-English
+Speaks: English
+
+Average WPM: 109wpm
+
+Highest WPM: 120wpm
+
+Highest accuracy: 100%
+
+> *Note:* Tests conducted on [Monkeytype](https://monkeytype.com/)
 
 ### My Sites
 
