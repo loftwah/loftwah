@@ -26,7 +26,7 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 ### Uses
 
-Android, Appwrite, AWS, Canva, Cloudflare, DigitalOcean, Docker, GitHub, Google Workspace, Grammarly, Koji, Kubernetes, Linux, MacOS, Nginx, Sociamonials, Terraform, Ubuntu, VSCode, WordPress, and zsh.
+[Android](https://www.android.com/intl/en_au/), Appwrite, AWS, Canva, Cloudflare, DigitalOcean, Docker, GitHub, Google Workspace, Grammarly, Koji, Kubernetes, Linux, MacOS, Nginx, Sociamonials, Terraform, Ubuntu, VSCode, WordPress, and zsh.
 
 ### Speaking, Typing and Writing
 
