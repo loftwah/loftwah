@@ -59,3 +59,7 @@ English
 - “A hacker is someone trying to figure out a way to make toast with a coffee maker” - Wau Holland
 - “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” - Aaron Swartz
 - "I always felt that I had to work harder than the next guy, just to do as well as the next guy. And to do better than the next guy, I had to just kill. And you know, to a certain extent, that's still with me in how I work, you know. I just... go in." - Jimmy Iovine
+
+## Favourite GitHub Reposotories
+
+[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) is mostly where I learned to code | [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics | [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) is how I got here | [Public APS](https://github.com/public-apis/public-apis) - A collective list of free APIs | [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems | [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
