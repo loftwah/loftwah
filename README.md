@@ -1,6 +1,6 @@
 # Dean Lofts
 
-![Old Man Yells At Cloud](oldmancloud.jpg)
+- [ ] Add new banner image
 
 Hi, I'm Dean Lofts and I also go by [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as [Protektahz](https://www.youtube.com/playlist?list=OLAK5uy_kO8bRKVWIAFGFNDjVkI9NiKtHSsqGEndQ), [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧
 
@@ -18,7 +18,7 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 ## Books I Like
 
-[Long Walk to Freedom](https://en.wikipedia.org/wiki/Long_Walk_to_Freedom), [The Rose That Grew from Concrete (poetry collection)](<https://en.wikipedia.org/wiki/The_Rose_That_Grew_from_Concrete_(poetry_collection)>), [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War), [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich), and [Zero Day](https://www.goodreads.com/book/show/9763010-zero-day).
+[Long Walk to Freedom](https://en.wikipedia.org/wiki/Long_Walk_to_Freedom), [The Rose That Grew from Concrete (poetry collection)](<https://en.wikipedia.org/wiki/The_Rose_That_Grew_from_Concrete_(poetry_collection)>), [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War), [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich) and [Zero Day](https://www.goodreads.com/book/show/9763010-zero-day).
 
 ## My Interests
 
@@ -26,11 +26,19 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 ### Uses
 
-Android, Appwrite, AWS, Canva, Cloudflare, DigitalOcean, Docker, GitHub, Google Workspace, Grammarly, Koji, Kubernetes, Linux, MacOS, Nginx, Sociamonials, Terraform, Ubuntu, VSCode, WordPress, and zsh.
+[Android](https://www.android.com/intl/en_au/), [Appwrite](https://appwrite.io), AWS, Canva, Cloudflare, DigitalOcean, Docker, GitHub, Google Workspace, Grammarly, Koji, Kubernetes, Linux, MacOS, Nginx, Sociamonials, Terraform, Ubuntu, VSCode, WordPress, and zsh.
 
-### Speaking and Writing
+### Speaking, Typing and Writing
 
-English
+**Speaks:** `English`
+
+**Average WPM:** `109wpm`
+
+**Highest WPM:** `120wpm`
+
+**Highest accuracy:** `100%`
+
+> *Note:* Tests conducted on [Monkeytype](https://monkeytype.com/)
 
 ### My Sites
 
@@ -46,20 +54,17 @@ English
 
 ## Quotes I Like
 
-- "Any sufficiently advanced technology is equivalent to magic.” - Arthur C. Clarke
-- "Social engineering bypasses all technologies, including firewalls." - Kevin Mitnick
-- "People said I should accept the world. Bullshit! I don't accept the world." - Richard Stallman
-- “The real danger is not that computers will begin to think like men, but that men will begin to think like computers.” - Sydney Harris
-- "Patience, persistence and perspiration make an unbeatable combination for success." - Napoleon Hill
-- "It doesn't matter what you know, what matters is when you know” - Kathy Sierra
-- "Technology frightens me to death. It’s designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.” - John Cleese
-- "Software is like sex; it's better when it's free." - Linus Torvalds
-- "The future belongs to those who learn more skills and combine them in creative ways." - Robert Greene
-- "I don't see myself being special; I just see myself having more responsibilities than the next man. People look to me to do things for them, to have answers." - Tupac Shakur
-- “A hacker is someone trying to figure out a way to make toast with a coffee maker” - Wau Holland
-- “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” - Aaron Swartz
-- "I always felt that I had to work harder than the next guy, just to do as well as the next guy. And to do better than the next guy, I had to just kill. And you know, to a certain extent, that's still with me in how I work, you know. I just... go in." - Jimmy Iovine
-
-## Favourite GitHub Reposotories
-
-[freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) is mostly where I learned to code | [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics | [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) is how I got here | [Public APS](https://github.com/public-apis/public-apis) - A collective list of free APIs | [System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems | [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- "Any sufficiently advanced technology is equivalent to magic.” - [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)
+- "Social engineering bypasses all technologies, including firewalls." - [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick)
+- "People said I should accept the world. Bullshit! I don't accept the world." - [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
+- “The real danger is not that computers will begin to think like men, but that men will begin to think like computers.” - [Sydney Harris](https://en.wikipedia.org/wiki/Sydney_J._Harris)
+- "Patience, persistence and perspiration make an unbeatable combination for success." - [Napoleon Hill](https://en.wikipedia.org/wiki/Napoleon_Hill)
+- "It doesn't matter what you know, what matters is when you know” - [Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra)
+- "Technology frightens me to death. It’s designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.” - [John Cleese](https://en.wikipedia.org/wiki/John_Cleese)
+- "Software is like sex; it's better when it's free." - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+- "The future belongs to those who learn more skills and combine them in creative ways." - [Robert Greene](https://en.wikipedia.org/wiki/Robert_Greene_(American_author))
+- "I don't see myself being special; I just see myself having more responsibilities than the next man. People look to me to do things for them, to have answers." - [Tupac Shakur](https://en.wikipedia.org/wiki/Tupac_Shakur)
+- “A hacker is someone trying to figure out a way to make toast with a coffee maker” - [Wau Holland](https://en.wikipedia.org/wiki/Wau_Holland)
+- “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” - [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)
+- "I always felt that I had to work harder than the next guy, just to do as well as the next guy. And to do better than the next guy, I had to just kill. And you know, to a certain extent, that's still with me in how I work, you know. I just... go in." - [Jimmy Iovine](https://en.wikipedia.org/wiki/Jimmy_Iovine)
+- “I know the dark things that people have intentions for when it comes to using information nefariously and I do must best to interrupt that and I’m going to continue to. I’m not afraid of anybody and If I’m called to take care of that its game over for that person or group.” - [Gummo](https://twitter.com/GummoXXX)
