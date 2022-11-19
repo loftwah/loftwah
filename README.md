@@ -38,7 +38,7 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 **Highest accuracy:** `100%`
 
-> *Note* Tests conducted on [Monkeytype](https://monkeytype.com/)
+> **Note** Tests conducted on [Monkeytype](https://monkeytype.com/)
 
 ### My Sites
 
