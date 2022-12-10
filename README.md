@@ -2,19 +2,21 @@
 
 - [ ] Add new banner image
 
-Hi, I'm Dean Lofts and I also go by [Loftwah The Beatsmiff](https://btsmf.link), and you might remember me from such albums as [Protektahz](https://www.youtube.com/playlist?list=OLAK5uy_kO8bRKVWIAFGFNDjVkI9NiKtHSsqGEndQ), [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧
+Hi, I'm [Loftwah](https://linkfree.eddiehub.io/loftwah), and you might remember me from such albums as [Protektahz](https://www.youtube.com/playlist?list=OLAK5uy_kO8bRKVWIAFGFNDjVkI9NiKtHSsqGEndQ), [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧
 
 I can be described as somebody who is confident, friendly, informal and optimistic. 😎
 
 To learn more about what I'm probably like, my personality type is [ISTP-A](https://www.16personalities.com/istp-personality). You can also take your own test [here](https://www.16personalities.com/free-personality-test).
 
-![ISTP-A](personality.png)
+**Speaks:** `English`
 
-- 💲 Please support what I do [here](https://www.paypal.com/paypalme/loftwah/) or on [GitHub Sponsors](https://github.com/sponsors/loftwah)
+**Highest WPM:** `120wpm`
+
+> **Note** Tests conducted on [Monkeytype](https://monkeytype.com/)
 
 ## My Links
 
-[BTSMF.link](https://btsmf.link) | [EddieHub LinkFree](https://linkfree.eddiehub.io/loftwah) | [Email](mailto://dean@deanlofts.xyz/) | [GitHub](https://github.com/loftwah/) | [LinkedIn](https://linkedin.com/in/deanlofts/) | [Lofts.sh](https://lofts.sh) | [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) | [Twitter](https://twitter.com/loftwah) | [WhatsApp](https://wa.me/+61423837782) | [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
+[BTSMF.link](https://btsmf.link) | [EddieHub LinkFree](https://linkfree.eddiehub.io/loftwah) | [Lofts.sh](https://lofts.sh) | [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) | [Twitter](https://twitter.com/loftwah) | [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
 
 ## Books I Like
 
@@ -24,23 +26,11 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 [Arcade Games](https://archive.org/details/internetarcade), [Beat Making](https://en.wiktionary.org/wiki/beatmaker), [Card Games](https://en.wikipedia.org/wiki/Card_game), [Coding](https://en.wikipedia.org/wiki/Computer_programming), [Comedy](https://en.wikipedia.org/wiki/Comedy), [Computers](https://en.wikipedia.org/wiki/Computer), [Gaming](https://en.wikipedia.org/wiki/Video_game), [Music Production](https://www.discogs.com/search/?q=beatsmiff&type=all), [Reading](https://en.wikipedia.org/wiki/Reading), [Running](https://en.wikipedia.org/wiki/Running), [Sleeping](https://www.youtube.com/watch?v=dQw4w9WgXcQ), [Swimming](https://en.wikipedia.org/wiki/Swimming), [Trivia](https://en.wikipedia.org/wiki/Trivia) and [Writing](https://en.wikipedia.org/wiki/Writing).
 
-### Favourite Uses
+## Favourite Uses
 
 [Appwrite](https://appwrite.io), AWS, Cloudflare, GitHub, Google Workspace, Grammarly, Linux, MacOS, Ruby, Terraform, VSCode.
 
-### Speaking, Typing and Writing
-
-**Speaks:** `English`
-
-**Average WPM:** `109wpm`
-
-**Highest WPM:** `120wpm`
-
-**Highest accuracy:** `100%`
-
-> **Note** Tests conducted on [Monkeytype](https://monkeytype.com/)
-
-### My Sites
+## My Sites
 
 - [BTSMF](https://btsmf.link) - all things music here, I produce Hip Hop mostly - [Powered by Koji](https://withkoji.com/)
 - [Linktree](https://linktr.ee/beatsmiff) - Link in Bio with the OG of Link in Bios - [Powered by Linktree](https://linktr.ee)
