@@ -1,6 +1,6 @@
 # Dean Lofts
 
-![DEAN LOFTS](https://user-images.githubusercontent.com/19922556/206859597-5dc266d5-94a1-4cb5-93e1-7a635308822a.png)
+![DEAN LOFTS (1)](https://user-images.githubusercontent.com/19922556/206861117-ace1b434-5f00-4cc5-b0cf-b52edb996020.png)
 
 Hi, I'm [Loftwah](https://linkfree.eddiehub.io/loftwah), and you might remember me from such albums as [Protektahz](https://www.youtube.com/playlist?list=OLAK5uy_kO8bRKVWIAFGFNDjVkI9NiKtHSsqGEndQ), [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧
 
