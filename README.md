@@ -28,7 +28,7 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 ## Favourite Uses
 
-[Appwrite](https://appwrite.io), [AWS](https://aws.amazon.com) Cloudflare, GitHub, Google Workspace, Grammarly, Linux, MacOS, Ruby, Slack, Terraform and VSCode.
+[Appwrite](https://appwrite.io), [AWS](https://aws.amazon.com), Cloudflare, GitHub, Google Workspace, Grammarly, Linux, MacOS, Ruby, Slack, Terraform and VSCode.
 
 ## My Sites
 
