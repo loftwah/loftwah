@@ -20,7 +20,7 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 ## Books I Like
 
-[Long Walk to Freedom](https://en.wikipedia.org/wiki/Long_Walk_to_Freedom), [The Rose That Grew from Concrete (poetry collection)](<https://en.wikipedia.org/wiki/The_Rose_That_Grew_from_Concrete_(poetry_collection)>), [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War), [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich) and [Zero Day](https://www.goodreads.com/book/show/9763010-zero-day).
+[Long Walk to Freedom](https://en.wikipedia.org/wiki/Long_Walk_to_Freedom), [Secrets of the Autistic Millionaire](https://www.amazon.com.au/Secrets-Autistic-Millionaire-Everything-Aspergers/dp/B09KDYQX4L), [The Rose That Grew from Concrete (poetry collection)](<https://en.wikipedia.org/wiki/The_Rose_That_Grew_from_Concrete_(poetry_collection)>), [The 48 Laws of Power](https://en.wikipedia.org/wiki/The_48_Laws_of_Power), [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War), [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy), [Think and Grow Rich](https://en.wikipedia.org/wiki/Think_and_Grow_Rich) and [Zero Day](https://www.goodreads.com/book/show/9763010-zero-day).
 
 ## My Interests
 
