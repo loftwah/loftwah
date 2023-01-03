@@ -58,3 +58,4 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 - “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” - [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)
 - "I always felt that I had to work harder than the next guy, just to do as well as the next guy. And to do better than the next guy, I had to just kill. And you know, to a certain extent, that's still with me in how I work, you know. I just... go in." - [Jimmy Iovine](https://en.wikipedia.org/wiki/Jimmy_Iovine)
 - “I know the dark things that people have intentions for when it comes to using information nefariously and I do my best to interrupt that and I’m going to continue to. I’m not afraid of anybody and If I’m called to take care of that its game over for that person or group.” - [Gummo](https://twitter.com/GummoXXX)
+- "Silence is a source of great strength." - [Lao Tzu](https://en.wikipedia.org/wiki/Laozi)
