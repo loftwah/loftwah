@@ -30,18 +30,6 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 [Appwrite](https://appwrite.io), [AWS](https://aws.amazon.com), [Cloudflare](https://www.cloudflare.com/), [GitHub](https://github.com), [Google Workspace](https://mail.google.com), [Grammarly](https://grammarly.com), Linux, MacOS, Ruby, Slack, Terraform, Ubuntu and VSCode.
 
-## My Sites
-
-- [BTSMF](https://btsmf.link) - all things music here, I produce Hip Hop mostly - [Powered by Koji](https://withkoji.com/)
-- [Linktree](https://linktr.ee/beatsmiff) - Link in Bio with the OG of Link in Bios - [Powered by Linktree](https://linktr.ee)
-- [Lofts.sh](https://lofts.sh) - all things tech and professional here, I like to pretend I am professional - [Powered by WordPress](https://wordpress.org)
-- [Loftwah The Beatsmiff](https://beatsmiff.com) - my official music website and online store - [Powered by WordPress](https://wordpress.org)
-
-## My Portfolio
-
-- [Video Portfolio](https://www.youtube.com/playlist?list=PLgr1VpT986yP4I9bKEWWWssKL2ajRubPM)
-- [Web Development Portfolio](https://lofts.sh/my-portfolio-web/)
-
 ## Quotes I Like
 
 - "Any sufficiently advanced technology is equivalent to magic.” - [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)
