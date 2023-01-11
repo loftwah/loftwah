@@ -1,6 +1,6 @@
 # Dean Lofts
 
-![DEAN LOFTS (2)](https://user-images.githubusercontent.com/19922556/206861408-cb70eccc-eaac-41a1-88fb-4929d616c266.png)
+![DEAN LOFTS](https://user-images.githubusercontent.com/19922556/211828792-f752720a-71fb-4ae8-a119-768d80933f63.png)
 
 > **Note** Ladies! I'm single [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) if you'd like to go out sometime ❤️️
 
