@@ -6,6 +6,16 @@
 
 Hi, I'm [Loftwah](https://linkfree.eddiehub.io/loftwah), and you might remember me from such albums as [Protektahz](https://www.youtube.com/playlist?list=OLAK5uy_kO8bRKVWIAFGFNDjVkI9NiKtHSsqGEndQ), [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧
 
+Hi, my name is Dean, but I go by Loftwah online. Although I have worked in tech and IT, I have not received formal training in coding and recently taught myself.
+
+I am passionate about AI, AWS, DevOps, DevRel, Ruby, Rust, and Terraform. In my free time, I enjoy producing hip hop music and spending time with my 11-year-old daughter.
+
+I recently became an ambassador for the popular open source community EddieHub and its project LinkFree (an open source alternative to LinkTree). I also participated in hackathons and co-hosted my first Twitter space, which had over 1300 attendees. I am currently writing a book called "Linux for Pirates!" to help new individuals in the industry get started.
+
+I love everything technology-related and am always open to asynchronous communication. My preferred work hours are in the afternoon and evening, and I may need to pause my music during voice calls. I have contributed to various open source projects, including Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. My preferred programming language is Rust (aside from Bash).
+
+With a diverse background, including experiences in the defence force, defence industry, mining, oil and gas, ISPs, and SaaS, I hope to bring valuable experience to the education industry. My DMs are always open, and I look forward to working with everyone here.
+
 I can be described as somebody who is confident, friendly, informal and optimistic. 😎
 
 To learn more about what I'm probably like, my personality type is [ISTP-A](https://www.16personalities.com/istp-personality). You can also take your own test [here](https://www.16personalities.com/free-personality-test).
