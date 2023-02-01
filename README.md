@@ -4,8 +4,6 @@
 
 > **Note** Ladies! I'm single [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) if you'd like to go out sometime ❤️️
 
-Hi, I'm [Loftwah](https://linkfree.eddiehub.io/loftwah), and you might remember me from such albums as [Protektahz](https://www.youtube.com/playlist?list=OLAK5uy_kO8bRKVWIAFGFNDjVkI9NiKtHSsqGEndQ), [Salty Waterz](https://open.spotify.com/album/59eTGkXJYUK6m481rwSES9?si=ANSXBbAWRPSlYqa8ZwnTlw), [Salty Waterz 2](https://open.spotify.com/album/2xhntWeTyDDuk6JVHNsdMK?si=isIwbhPtSbuG51Q5v5EUvw), [Day of The Guiding Light](https://open.spotify.com/album/6IfVVM4fdQZ80OjwMZ1PFN?si=9J-hJyFpT7OaUig17bsUQw), and [Such Iz Life](https://open.spotify.com/album/604EhrF7i400uQmOdhvoge?si=bZYmzg3ASoGDSJj_yzU-iQ). 🎧
-
 Hi, my name is Dean, but I go by Loftwah online. Although I have worked in tech and IT, I have not received formal training in coding and recently taught myself.
 
 I am passionate about AI, AWS, DevOps, DevRel, Ruby, Rust, and Terraform. In my free time, I enjoy producing hip hop music and spending time with my 11-year-old daughter.
