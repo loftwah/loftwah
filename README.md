@@ -2,8 +2,6 @@
 
 ![DEAN LOFTS](https://user-images.githubusercontent.com/19922556/217167425-78f53e05-96ff-4d16-b405-e0ca12f7fdd1.png)
 
-> **Note** Ladies! I'm single [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) if you'd like to go out sometime ❤️️
-
 Hi, my name is Dean, but I go by Loftwah online. Although I have worked in tech and IT, I have not received formal training in coding and recently taught myself.
 
 I am passionate about AI, AWS, DevOps, DevRel, Ruby, Rust, and Terraform. In my free time, I enjoy producing hip hop music and spending time with my 11-year-old daughter.
