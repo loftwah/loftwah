@@ -4,7 +4,7 @@
 
 Hi, my name is Dean, but I go by Loftwah online. Although I have worked in tech and IT, I have not received formal training in coding and recently taught myself.
 
-I am passionate about AI, AWS, DevOps, DevRel, Ruby, Rust, and Terraform. In my free time, I enjoy producing hip hop music and spending time with my 11-year-old daughter.
+I am passionate about AI, AWS, DevOps, DevRel, Ruby, Rust, and Terraform. In my free time, I enjoy producing hip hop music and spending time with my 12-year-old daughter.
 
 I recently became an ambassador for the popular open source community EddieHub and its project LinkFree (an open source alternative to LinkTree). I also participated in hackathons and co-hosted my first Twitter space, which had over 1300 attendees. I am currently writing a book called "Linux for Pirates!" to help new individuals in the industry get started.
 
