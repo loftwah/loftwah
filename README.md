@@ -56,3 +56,4 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 - “I know the dark things that people have intentions for when it comes to using information nefariously and I do my best to interrupt that and I’m going to continue to. I’m not afraid of anybody and If I’m called to take care of that its game over for that person or group.” - [Gummo](https://twitter.com/GummoXXX)
 - "Silence is a source of great strength." - [Lao Tzu](https://en.wikipedia.org/wiki/Laozi)
 - "If we don't know what we are doing, the enemy certainly can't anticipate our future actions." - [Colonel Goodhead](https://www.imdb.com/title/tt0036112/characters/nm0560560)
+- "A rising tide floats all boats….. only when the tide goes out do you discover who's been swimming naked." - [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett)
