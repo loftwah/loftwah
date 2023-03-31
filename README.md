@@ -1,6 +1,6 @@
 # Dean Lofts
 
-![DEAN LOFTS](https://user-images.githubusercontent.com/19922556/222143124-a8d8b7e0-0b8b-46dd-8c84-b1937362c648.jpg)
+![DEAN LOFTS](https://user-images.githubusercontent.com/19922556/229072189-1c065ed3-d85a-4061-9c47-1dd2ccc9d240.png)
 
 Hi, my name is Dean, but I go by Loftwah online. Although I have worked in tech and IT, I have not received formal training in coding and recently taught myself.
 
