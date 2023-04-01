@@ -24,7 +24,7 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 ## My Links
 
-[BTSMF.link](https://btsmf.link) | [EddieHub LinkFree](https://linkfree.eddiehub.io/loftwah) | [Lofts.sh](https://lofts.sh) | [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) | [Twitter](https://twitter.com/loftwah) | [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
+[LinkFree](https://linkfree.io/loftwah) | [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) | [Twitter](https://twitter.com/loftwah) | [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
 
 ## Books I Like
 
