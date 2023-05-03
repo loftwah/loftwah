@@ -57,3 +57,4 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 - "Silence is a source of great strength." - [Lao Tzu](https://en.wikipedia.org/wiki/Laozi)
 - "If we don't know what we are doing, the enemy certainly can't anticipate our future actions." - [Colonel Goodhead](https://www.imdb.com/title/tt0036112/characters/nm0560560)
 - "A rising tide floats all boats….. only when the tide goes out do you discover who's been swimming naked." - [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett)
+- "I'm not a genius. I'm just a hard-working guy." - [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
