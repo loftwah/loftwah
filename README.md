@@ -10,7 +10,7 @@ I recently became an ambassador for the popular open source community EddieHub a
 
 I love everything technology-related and am always open to asynchronous communication. My preferred work hours are in the afternoon and evening, and I may need to pause my music during voice calls. I have contributed to various open source projects, including Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. My preferred programming language is Rust (aside from Bash).
 
-With a diverse background, including experiences in the defence force, defence industry, mining, oil and gas, ISPs, and SaaS, I hope to bring valuable experience to the education industry. My DMs are always open, and I look forward to working with everyone here.
+With a diverse background, including experiences in the defence force, defence industry, mining, oil and gas, ISPs, and SaaS, I hope to bring valuable experience to the education industry.
 
 I can be described as somebody who is confident, friendly, informal and optimistic. 😎
 
