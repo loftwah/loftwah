@@ -4,7 +4,7 @@
 
 Hello! I'm Dean, also known as Loftwah in the digital world. I am an experienced DevOps engineer, system administrator, and network infrastructure professional, with skills spanning REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. Currently, I'm working as a DevOps Engineer at Operoo, and my professional journey includes roles at PlayHQ Sports, PVS Australia Pty Ltd, Lions Eye Institute, among others.
 
-Despite not having formal training in coding, my passion for technology led me to self-learn and develop proficiency in several areas including AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. I'm a dedicated contributor to open-source projects, making significant contributions to Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. Rust and Bash are my go-to programming languages.
+Despite not having formal training in coding, my passion for technology led me to self-learn and develop proficiency in several areas including AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. I'm a dedicated contributor to open-source projects, making significant contributions to Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. Ruby and Bash are my go-to programming languages.
 
 Recently, I became an ambassador for the popular open-source community EddieHub and its project LinkFree, a fantastic open-source alternative to Linktree. I love participating in hackathons and co-hosting spaces like my recent Twitter space that pulled in over 1300 attendees. I'm also the author of "Linux for Pirates!", a guide meant to assist newcomers in the tech industry.
 
