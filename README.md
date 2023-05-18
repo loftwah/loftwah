@@ -2,17 +2,23 @@
 
 ![LOFTWAH](https://user-images.githubusercontent.com/19922556/235451308-0ec8e7e2-d5d7-4a45-9091-cf440c8ccaa5.png)
 
-Hi, my name is Dean, but I go by Loftwah online. Although I have worked in tech and IT, I have not received formal training in coding and recently taught myself.
+Hello! I'm Dean, also known as Loftwah in the digital world. I am an experienced DevOps engineer, system administrator, and network infrastructure professional, with skills spanning REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. Currently, I'm working as a DevOps Engineer at Operoo, and my professional journey includes roles at PlayHQ Sports, PVS Australia Pty Ltd, Lions Eye Institute, among others.
 
-I am passionate about AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. In my free time, I enjoy producing hip hop music and spending time with my 12-year-old daughter.
+Despite not having formal training in coding, my passion for technology led me to self-learn and develop proficiency in several areas including AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. I'm a dedicated contributor to open-source projects, making significant contributions to Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. Rust and Bash are my go-to programming languages.
 
-I recently became an ambassador for the popular open source community EddieHub and its project LinkFree (an open source alternative to Linktree). I also participated in hackathons and co-hosted my first Twitter space, which had over 1300 attendees. I am currently writing a book called "Linux for Pirates!" to help new individuals in the industry get started.
+Recently, I became an ambassador for the popular open-source community EddieHub and its project LinkFree, a fantastic open-source alternative to Linktree. I love participating in hackathons and co-hosting spaces like my recent Twitter space that pulled in over 1300 attendees. I'm also the author of "Linux for Pirates!", a guide meant to assist newcomers in the tech industry.
 
-I love everything technology-related and am always open to asynchronous communication. My preferred work hours are in the afternoon and evening, and I may need to pause my music during voice calls. I have contributed to various open source projects, including Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. My preferred programming language is Rust (aside from Bash).
+Outside the tech realm, I'm a self-taught hip hop producer and music producer, known as Loftwah The Beatsmiff. I've released several albums and collaborated with artists like Grind Mode Cypher and OptiMystic MC. I also had a brief stint as a Recording Engineer at Shake Down Studio.
 
-With a diverse background, including experiences in the defence force, defence industry, mining, oil and gas, ISPs, and SaaS, I hope to bring valuable experience to the education industry.
+Before my foray into tech and music, I served in the Royal Australian Navy and worked on large-scale projects across various sectors like defence, mining, oil and gas, ISPs, and SaaS. These diverse experiences have given me a wealth of knowledge that I hope to bring into the education industry.
 
-I can be described as somebody who is confident, friendly, informal and optimistic. 😎
+In addition to my tech and music contributions, I run a tech-oriented YouTube channel, publish tech articles, and share my personal journey, including overcoming adversity and mental health struggles. Despite the challenges, I find joy in experiences like road trips with my daughter and being part of a supportive work team.
+
+You'll find me to be confident, friendly, informal, and optimistic. I believe in open, asynchronous communication and love to see the tech community grow. Just a heads up - I might need to pause my music during voice calls!
+
+Fun fact - I have received several awards for my military service, including the Iraq Medal, the Australian Active Service Medal, and the Australian Defence Medal. My preferred work hours are in the afternoon and evening.
+
+If you're interested in exploring my music, you can find it on YouTube and other platforms. For more on my thoughts about tech, my career, and emerging trends, you can check out my writings. Thanks for stopping by, and don't hesitate to reach out! 😎
 
 To learn more about what I'm probably like, my personality type is [ISTP-A](https://www.16personalities.com/istp-personality). You can also take your own test [here](https://www.16personalities.com/free-personality-test).
 
