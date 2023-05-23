@@ -2,7 +2,7 @@
 
 ![LOFTWAH](https://user-images.githubusercontent.com/19922556/235451308-0ec8e7e2-d5d7-4a45-9091-cf440c8ccaa5.png)
 
-Hello! I'm Dean, also known as Loftwah in the digital world. I am an experienced DevOps engineer, system administrator, and network infrastructure professional, with skills spanning REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. Currently, I'm working as a DevOps Engineer at Operoo, and my professional journey includes roles at PlayHQ Sports, PVS Australia Pty Ltd, Lions Eye Institute, among others.
+Hello! I'm Dean, also known as Loftwah in the digital world. I am an experienced DevOps Engineer, System Administrator, and Network Infrastructure Professional, with skills spanning REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. Currently, I'm working as a DevOps Engineer at Operoo, and my professional journey includes roles at PlayHQ Sports, PVS Australia Pty Ltd, Lions Eye Institute, among others.
 
 Despite not having formal training in coding, my passion for technology led me to self-learn and develop proficiency in several areas including AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. I'm a dedicated contributor to open-source projects, making significant contributions to Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. Ruby and Bash are my go-to programming languages.
 
