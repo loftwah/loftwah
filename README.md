@@ -1,6 +1,6 @@
 # Dean Lofts
 
-![LOFTWAH](https://user-images.githubusercontent.com/19922556/235451308-0ec8e7e2-d5d7-4a45-9091-cf440c8ccaa5.png)
+![Loftwah](https://github.com/loftwah/loftwah/assets/19922556/d025b960-67f1-4e31-aee9-8c061073fe86)
 
 Hello! I'm Dean, also known as Loftwah in the digital world. I am an experienced DevOps Engineer, System Administrator, and Network Infrastructure Professional, with skills spanning REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. Currently, I'm working as a DevOps Engineer at Operoo, and my professional journey includes roles at PlayHQ Sports, PVS Australia Pty Ltd, Lions Eye Institute, among others.
 
