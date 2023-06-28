@@ -42,7 +42,7 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 ## Favourite Uses
 
-[Appwrite](https://appwrite.io), [AWS](https://aws.amazon.com), [Cloudflare](https://www.cloudflare.com), [GitHub](https://github.com), [Google Workspace](https://mail.google.com), [Grammarly](https://grammarly.com), [Linux](https://github.com/loftwah/linux-for-pirates), [MacOS](https://www.apple.com/au/macbook-pro/), [Ruby](https://rubystyle.guide), [Rust](https://www.rust-lang.org/learn), [Slack](https://slack.com), [Terraform](https://www.terraform.io), [Ubuntu](https://ubuntu.com) and [VSCode](https://code.visualstudio.com).
+[Appwrite](https://appwrite.io), [AWS](https://aws.amazon.com), [Cloudflare](https://www.cloudflare.com), [CrabLang](https://www.crablang.org), [GitHub](https://github.com), [Google Workspace](https://mail.google.com), [Grammarly](https://grammarly.com), [Linux](https://github.com/loftwah/linux-for-pirates), [MacOS](https://www.apple.com/au/macbook-pro/), [Ruby](https://rubystyle.guide), [Slack](https://slack.com), [Ubuntu](https://ubuntu.com) and [VSCode](https://code.visualstudio.com).
 
 ## Quotes I Like
 
