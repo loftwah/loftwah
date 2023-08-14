@@ -24,7 +24,7 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 **Speaks:** `English`
 
-**Highest WPM:** `120wpm`
+**Highest WPM:** `151wpm`
 
 > **Note** Tests conducted on [Monkeytype](https://monkeytype.com/)
 
