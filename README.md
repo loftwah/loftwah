@@ -2,23 +2,23 @@
 
 ![DEAN LOFTS](https://github.com/loftwah/loftwah/assets/19922556/9e371c9d-9136-49b7-9a8d-c20d779d2423)
 
-Hello! I'm Dean, also known as Loftwah in the digital world. I am an experienced DevOps Engineer, System Administrator, and Network Infrastructure Professional, with skills spanning REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. Currently, I'm working as a DevOps Engineer at Operoo, and my professional journey includes roles at PlayHQ Sports, PVS Australia Pty Ltd, Lions Eye Institute, among others.
+Hello! I'm Dean, often known in the digital world as Loftwah. I bring to the table my experience as a DevOps Engineer, System Administrator, and Network Infrastructure Professional, with a repertoire that includes REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. I'm also certified as an AWS Solutions Architect Professional.
 
-Despite not having formal training in coding, my passion for technology led me to self-learn and develop proficiency in several areas including AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. I'm a dedicated contributor to open-source projects, making significant contributions to Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. Ruby and Bash are my go-to programming languages.
+While I might not have embarked on formal coding education, my fervor for technology kindled a self-learning journey, making me adept in areas such as AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. I've been an active hand in open-source projects, notably contributing to Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. When it comes to programming, Ruby and Bash are my trusted allies.
 
-Recently, I became an ambassador for the popular open-source community EddieHub and its project LinkFree, a fantastic open-source alternative to Linktree. I love participating in hackathons and co-hosting spaces like my recent Twitter space that pulled in over 1300 attendees. I'm also the author of "Linux for Pirates!", a guide meant to assist newcomers in the tech industry.
+In the open-source sphere, I've had the honor of being an ambassador for EddieHub and its project, LinkFree. For those interested in Linux, my book "Linux for Pirates!" seeks to guide newcomers in the tech sphere.
 
-Outside the tech realm, I'm a self-taught hip hop producer and music producer, known as Loftwah The Beatsmiff. I've released several albums and collaborated with artists like Grind Mode Cypher and OptiMystic MC. I also had a brief stint as a Recording Engineer at Shake Down Studio.
+Beyond technology, I express myself as a hip-hop and music producer under the alias, Loftwah The Beatsmiff. I've blessed the music scene with several albums and have had the privilege to collaborate with names like Grind Mode Cypher and OptiMystic MC.
 
-Before my foray into tech and music, I served in the Royal Australian Navy and worked on large-scale projects across various sectors like defence, mining, oil and gas, ISPs, and SaaS. These diverse experiences have given me a wealth of knowledge that I hope to bring into the education industry.
+My career canvas isn't limited to the aforementioned. I've served with pride in the Royal Australian Navy and engaged in large-scale projects across sectors including defence, mining, oil and gas, ISPs, and SaaS. This myriad of experiences positions me uniquely, and I'm keen on channeling this knowledge to uplift the education sector.
 
-In addition to my tech and music contributions, I run a tech-oriented YouTube channel, publish tech articles, and share my personal journey, including overcoming adversity and mental health struggles. Despite the challenges, I find joy in experiences like road trips with my daughter and being part of a supportive work team.
+When I'm not neck-deep in tech or beats, I run a tech-focused YouTube channel, pen down tech articles, and share snippets from my life – be it the hurdles of mental health or joyous road trips with my daughter.
 
-You'll find me to be confident, friendly, informal, and optimistic. I believe in open, asynchronous communication and love to see the tech community grow. Just a heads up - I might need to pause my music during voice calls!
+Personality-wise, expect to encounter someone confident, friendly, informal, and brimming with optimism. I champion open, asynchronous communication and am a proponent of tech community growth. Voice calls with me might be occasionally punctuated with music pauses!
 
-Fun fact - I have received several awards for my military service, including the Iraq Medal, the Australian Active Service Medal, and the Australian Defence Medal. My preferred work hours are in the afternoon and evening.
+A tidbit about me - my military stint has been adorned with awards such as the Iraq Medal, the Australian Active Service Medal, and the Australian Defence Medal. I find my productivity peaking in the afternoon and evening hours.
 
-If you're interested in exploring my music, you can find it on YouTube and other platforms. For more on my thoughts about tech, my career, and emerging trends, you can check out my writings. Thanks for stopping by, and don't hesitate to reach out! 😎
+Feel free to delve into my music on platforms like YouTube or peruse through my writings for insights into tech, career narratives, and the latest in the industry. Appreciate the visit! 😎
 
 To learn more about what I'm probably like, my personality type is [ISTP-A](https://www.16personalities.com/istp-personality). You can also take your own test [here](https://www.16personalities.com/free-personality-test).
 
