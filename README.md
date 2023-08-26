@@ -28,6 +28,10 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 
 > **Note** Tests conducted on [Monkeytype](https://monkeytype.com/)
 
+## Favourite XKCD
+
+[Devotion to Duty](https://xkcd.com/705/)
+
 ## My Links
 
 [LinkFree](https://linkfree.io/loftwah) | [Spotify](https://open.spotify.com/user/1230952597?si=aa83abc2ee9b4615) | [Twitter](https://twitter.com/loftwah) | [YouTube](https://www.youtube.com/loftwahthebeatsmiff)
