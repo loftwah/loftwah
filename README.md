@@ -4,9 +4,9 @@
 
 Hello! I'm Dean, often known in the digital world as Loftwah. I bring to the table my experience as a DevOps Engineer, System Administrator, and Network Infrastructure Professional, with a repertoire that includes REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. I'm also certified as an AWS Solutions Architect Professional.
 
-While I might not have embarked on formal coding education, my fervor for technology kindled a self-learning journey, making me adept in areas such as AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. I've been an active hand in open-source projects, notably contributing to Appwrite, EddieHub, LinkFree, NASA, Nocodb, Streamlabs, and WordPress. When it comes to programming, Ruby and Bash are my trusted allies.
+While I might not have embarked on formal coding education, my fervor for technology kindled a self-learning journey, making me adept in areas such as AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. I've been an active hand in open-source projects, notably contributing to Appwrite, EddieHub, BioDrop, NASA, Nocodb, Streamlabs, and WordPress. When it comes to programming, Ruby and Bash are my trusted allies.
 
-In the open-source sphere, I've had the honor of being an ambassador for EddieHub and its project, LinkFree. For those interested in Linux, my book "Linux for Pirates!" seeks to guide newcomers in the tech sphere.
+In the open-source sphere, I've had the honor of being an ambassador for EddieHub and its project, BioDrop. For those interested in Linux, my book "Linux for Pirates!" seeks to guide newcomers in the tech sphere.
 
 Beyond technology, I express myself as a hip-hop and music producer under the alias, Loftwah The Beatsmiff. I've blessed the music scene with several albums and have had the privilege to collaborate with names like Grind Mode Cypher and OptiMystic MC.
 
