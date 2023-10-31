@@ -1,6 +1,6 @@
 # Dean Lofts
 
-![@loftwah](https://github.com/loftwah/loftwah/assets/19922556/4eac475e-1085-4650-9ba4-45242293cebc)
+![Loftwah](https://github.com/loftwah/loftwah/assets/19922556/d40df22d-dd3f-4ed3-8db9-415c6505e1d0)
 
 Hello! I'm Dean, often known in the digital world as Loftwah. I bring to the table my experience as a DevOps Engineer, System Administrator, and Network Infrastructure Professional, with a repertoire that includes REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. I'm also certified as an AWS Solutions Architect Professional.
 
