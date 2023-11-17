@@ -4,7 +4,7 @@
 
 Hello! I'm Dean, often known in the digital world as Loftwah. I bring to the table my experience as a DevOps Engineer, System Administrator, and Network Infrastructure Professional, with a repertoire that includes REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. I'm also certified as an AWS Solutions Architect Professional.
 
-While I might not have embarked on formal coding education, my fervor for technology kindled a self-learning journey, making me adept in areas such as AI, AWS, DevOps, DevRel, Ruby, CrabLang, and Terraform. I've been an active hand in open-source projects, notably contributing to Appwrite, EddieHub, BioDrop, NASA, Nocodb, Streamlabs, and WordPress. When it comes to programming, Ruby and Bash are my trusted allies.
+While I might not have embarked on formal coding education, my fervor for technology kindled a self-learning journey, making me adept in areas such as AI, AWS, DevOps, DevRel, Golang, Ruby, and Terraform. I've been an active hand in open-source projects, notably contributing to Appwrite, EddieHub, BioDrop, NASA, Nocodb, Streamlabs, and WordPress. When it comes to programming, Ruby and Bash are my trusted allies.
 
 In the open-source sphere, I've had the honor of being an ambassador for EddieHub and its project, BioDrop. For those interested in Linux, my book "Linux for Pirates!" seeks to guide newcomers in the tech sphere.
 
