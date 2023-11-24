@@ -1,24 +1,20 @@
-# Dean Lofts
+# Dean "Loftwah" Lofts
 
 ![@loftwah](https://github.com/loftwah/loftwah/assets/19922556/2aea9699-6ab6-4b74-b3dc-c8f92a7fdd5c)
 
-Hello! I'm Dean, often known in the digital world as Loftwah. I bring to the table my experience as a DevOps Engineer, System Administrator, and Network Infrastructure Professional, with a repertoire that includes REST, Docker, Linux, Infrastructure, Troubleshooting, Network Security, DNS, and Cloud Computing. I'm also certified as an AWS Solutions Architect Professional.
+Hello! I’m Dean, affectionately known in tech and music circles as Loftwah. I'm an AWS-certified Senior DevOps Engineer with a passion for problem-solving and innovation. My technical arsenal includes REST, Docker, Linux, and Cloud Computing, complemented by strategic proficiency in AI, AWS, DevOps methodologies, and a penchant for Ruby and Golang.
 
-While I might not have embarked on formal coding education, my fervor for technology kindled a self-learning journey, making me adept in areas such as AI, AWS, DevOps, DevRel, Golang, Ruby, and Terraform. I've been an active hand in open-source projects, notably contributing to Appwrite, EddieHub, BioDrop, NASA, Nocodb, Streamlabs, and WordPress. When it comes to programming, Ruby and Bash are my trusted allies.
+My open-source advocacy is demonstrated through significant contributions to projects like Appwrite, EddieHub, BioDrop, NASA, and WordPress, where I serve as an ambassador, steering community growth and technological advancement.
 
-In the open-source sphere, I've had the honor of being an ambassador for EddieHub and its project, BioDrop. For those interested in Linux, my book "Linux for Pirates!" seeks to guide newcomers in the tech sphere.
+As a music producer, Loftwah The Beatsmiff is more than a moniker—it's a creative outlet, producing albums and collaborating with artists like Grind Mode Cypher and OptiMystic MC.
 
-Beyond technology, I express myself as a hip-hop and music producer under the alias, Loftwah The Beatsmiff. I've blessed the music scene with several albums and have had the privilege to collaborate with names like Grind Mode Cypher and OptiMystic MC.
+Professionally, I've served in the Royal Australian Navy and have been instrumental in driving efficiency and innovation across various sectors. My initiatives, like the integration of the yjit compiler, have delivered a 15% performance boost and substantial cost savings. I'm adept at optimizing AWS infrastructure, ensuring both technological advancement and fiscal prudence.
 
-My career canvas isn't limited to the aforementioned. I've served with pride in the Royal Australian Navy and engaged in large-scale projects across sectors including defence, mining, oil and gas, ISPs, and SaaS. This myriad of experiences positions me uniquely, and I'm keen on channeling this knowledge to uplift the education sector.
+In my downtime, I curate a tech-focused YouTube channel and author insightful tech articles. My journey is shared through the lens of a dedicated father and a mental health advocate.
 
-When I'm not neck-deep in tech or beats, I run a tech-focused YouTube channel, pen down tech articles, and share snippets from my life – be it the hurdles of mental health or joyous road trips with my daughter.
+I thrive in the afternoons and evenings, drawing inspiration from a wealth of experiences and a deep understanding of the tech landscape. My work is my badge of honor—validated by accolades such as the Iraq Medal, the Australian Active Service Medal, and the Australian Defence Medal.
 
-Personality-wise, expect to encounter someone confident, friendly, informal, and brimming with optimism. I champion open, asynchronous communication and am a proponent of tech community growth. Voice calls with me might be occasionally punctuated with music pauses!
-
-A tidbit about me - my military stint has been adorned with awards such as the Iraq Medal, the Australian Active Service Medal, and the Australian Defence Medal. I find my productivity peaking in the afternoon and evening hours.
-
-Feel free to delve into my music on platforms like YouTube or peruse through my writings for insights into tech, career narratives, and the latest in the industry. Appreciate the visit! 😎
+Discover more about my multifaceted journey on platforms like Spotify and YouTube or through my narratives that meld tech insights with life lessons. Welcome to my world—a blend of rhythm, code, and a relentless drive for excellence. 😎
 
 To learn more about what I'm probably like, my personality type is [ISTP-A](https://www.16personalities.com/istp-personality). You can also take your own test [here](https://www.16personalities.com/free-personality-test).
 
