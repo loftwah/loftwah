@@ -66,3 +66,4 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 - "I'm not a genius. I'm just a hard-working guy." - [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
 - "If you claim to be someone's ally, but aren't getting hit by the stones thrown at them, you aren't standing close enough." - Stan Mitchell
 - "There is no more exciting time to be alive than right now in all of human history" - David Shapiro
+- "Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway" - [Andrew Tanenbaum](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)
