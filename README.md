@@ -1,6 +1,6 @@
 # Dean "Loftwah" Lofts
 
-![Loftwah](https://github.com/loftwah/loftwah/assets/19922556/cfc9eacb-4e9c-42a3-a3cb-695f685c03e7)
+![Loftwah](https://github.com/loftwah/loftwah/assets/19922556/7eb00e4b-4923-4bdd-8e63-b70677da0c88)
 
 Hello! I’m Dean, affectionately known in tech and music circles as Loftwah. I'm an AWS-certified Senior DevOps Engineer with a passion for problem-solving and innovation. My technical arsenal includes REST, Docker, Linux, and Cloud Computing, complemented by strategic proficiency in AI, AWS, DevOps methodologies, and a penchant for Ruby and Golang.
 
