@@ -51,12 +51,12 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 - "People said I should accept the world. Bullshit! I don't accept the world." - [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
 - “The real danger is not that computers will begin to think like men, but that men will begin to think like computers.” - [Sydney Harris](https://en.wikipedia.org/wiki/Sydney_J._Harris)
 - "Patience, persistence and perspiration make an unbeatable combination for success." - [Napoleon Hill](https://en.wikipedia.org/wiki/Napoleon_Hill)
-- "It doesn't matter what you know, what matters is when you know” - [Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra)
+- "It doesn't matter what you know, what matters is when you know.” - [Kathy Sierra](https://en.wikipedia.org/wiki/Kathy_Sierra)
 - "Technology frightens me to death. It’s designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.” - [John Cleese](https://en.wikipedia.org/wiki/John_Cleese)
 - "Software is like sex; it's better when it's free." - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 - "The future belongs to those who learn more skills and combine them in creative ways." - [Robert Greene](https://en.wikipedia.org/wiki/Robert_Greene_(American_author))
 - "I don't see myself being special; I just see myself having more responsibilities than the next man. People look to me to do things for them, to have answers." - [Tupac Shakur](https://en.wikipedia.org/wiki/Tupac_Shakur)
-- “A hacker is someone trying to figure out a way to make toast with a coffee maker” - [Wau Holland](https://en.wikipedia.org/wiki/Wau_Holland)
+- “A hacker is someone trying to figure out a way to make toast with a coffee maker.” - [Wau Holland](https://en.wikipedia.org/wiki/Wau_Holland)
 - “Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.” - [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)
 - "I always felt that I had to work harder than the next guy, just to do as well as the next guy. And to do better than the next guy, I had to just kill. And you know, to a certain extent, that's still with me in how I work, you know. I just... go in." - [Jimmy Iovine](https://en.wikipedia.org/wiki/Jimmy_Iovine)
 - “I know the dark things that people have intentions for when it comes to using information nefariously and I do my best to interrupt that and I’m going to continue to. I’m not afraid of anybody and If I’m called to take care of that its game over for that person or group.” - [Gummo](https://twitter.com/GummoXXX)
@@ -65,5 +65,7 @@ To learn more about what I'm probably like, my personality type is [ISTP-A](http
 - "A rising tide floats all boats….. only when the tide goes out do you discover who's been swimming naked." - [Warren Buffett](https://en.wikipedia.org/wiki/Warren_Buffett)
 - "I'm not a genius. I'm just a hard-working guy." - [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)
 - "If you claim to be someone's ally, but aren't getting hit by the stones thrown at them, you aren't standing close enough." - Stan Mitchell
-- "There is no more exciting time to be alive than right now in all of human history" - David Shapiro
-- "Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway" - [Andrew Tanenbaum](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)
+- "There is no more exciting time to be alive than right now in all of human history." - David Shapiro
+- "Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway." - [Andrew Tanenbaum](https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum)
+- “The old world is dying, and the new world struggles to be born; now is the time of monsters.” — [Antonio Gramsci](https://en.wikipedia.org/wiki/Antonio_Gramsci)
+- “I visualize a time when we will be to robots what dogs are to humans, and I'm rooting for the machines." [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon)
