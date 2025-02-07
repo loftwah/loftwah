@@ -1,7 +1,5 @@
 # Dean "Loftwah" Lofts
 
-![Loftwah](https://github.com/loftwah/loftwah/assets/19922556/70c89628-777a-4584-bb0d-d1dbc9b16e0f)
-
 Hello! I’m Dean, affectionately known in tech and music circles as Loftwah. I'm an AWS-certified Senior DevOps Engineer with a passion for problem-solving and innovation. My technical arsenal includes REST, Docker, Linux, and Cloud Computing, complemented by strategic proficiency in AI, AWS, DevOps methodologies, and a penchant for Ruby and Golang.
 
 My open-source advocacy is demonstrated through significant contributions to projects like Appwrite, EddieHub, BioDrop, NASA, and WordPress, where I serve as an ambassador, steering community growth and technological advancement.
