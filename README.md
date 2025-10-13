@@ -51,9 +51,9 @@ Writes at **[blog.deanlofts.xyz](https://blog.deanlofts.xyz)** about DevOps, AI,
 
 ## Certifications
 
-- [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)  
-- [HashiCorp Certified: Terraform Associate (003)](https://developer.hashicorp.com/certifications/terraform-associate)  
-- [CompTIA Security+](https://www.comptia.org/certifications/security)  
+- [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/c97a35fc-ba6b-427a-b521-19b9ab28cfdb/linked_in_profile)  
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/0e437888-1deb-4a2d-8b82-cefb6b87b35d/public_url)  
+- CompTIA Security+  
 
 ---
 
