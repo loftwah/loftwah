@@ -1,7 +1,7 @@
 # Dean Lofts
 
 **Senior DevOps Engineer / Cloud Architect**  
-Melbourne, Australia
+Melbourne, Australia  
 
 [techdeck.life](https://techdeck.life) • [techub.life (coming soon)](https://github.com/TecHub-life/techub) • [fm.loftwah.com](https://fm.loftwah.com) • [blog.deanlofts.xyz](https://blog.deanlofts.xyz) • [LinkedIn](https://linkedin.com/in/deanlofts)
 
@@ -31,14 +31,19 @@ Writes at **[blog.deanlofts.xyz](https://blog.deanlofts.xyz)** about DevOps, AI,
 
 - **Cloud / Infra:**  
   AWS (ECS, Fargate, S3, RDS, CloudWatch), Terraform, Docker, GitHub Actions  
+
 - **Languages:**  
   Ruby, TypeScript, Shell  
+
 - **Frameworks:**  
   Ruby on Rails, Kamal  
+
 - **Observability:**  
   Structured Logging (Axiom), CloudWatch, Grafana, Prometheus  
+
 - **Databases:**  
   PostgreSQL, Redis  
+
 - **Security:**  
   Tailscale, IAM, CompTIA Security+  
 
@@ -46,9 +51,9 @@ Writes at **[blog.deanlofts.xyz](https://blog.deanlofts.xyz)** about DevOps, AI,
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Professional  
-- HashiCorp Certified: Terraform Associate (003)  
-- CompTIA Security+  
+- [AWS Certified Solutions Architect – Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)  
+- [HashiCorp Certified: Terraform Associate (003)](https://developer.hashicorp.com/certifications/terraform-associate)  
+- [CompTIA Security+](https://www.comptia.org/certifications/security)  
 
 ---
 
