@@ -31,19 +31,14 @@ Writes at **[blog.deanlofts.xyz](https://blog.deanlofts.xyz)** about DevOps, AI,
 
 - **Cloud / Infra:**  
   AWS (ECS, Fargate, S3, RDS, CloudWatch), Terraform, Docker, GitHub Actions  
-
 - **Languages:**  
   Ruby, TypeScript, Shell  
-
 - **Frameworks:**  
   Ruby on Rails, Kamal  
-
 - **Observability:**  
   Structured Logging (Axiom), CloudWatch, Grafana, Prometheus  
-
 - **Databases:**  
   PostgreSQL, Redis  
-
 - **Security:**  
   Tailscale, IAM, CompTIA Security+  
 
