@@ -3,7 +3,7 @@
 **Senior DevOps Engineer / Cloud Architect**  
 Melbourne, Australia  
 
-[techdeck.life](https://techdeck.life) • [techub.life (coming soon)](https://github.com/TecHub-life/techub) • [fm.loftwah.com](https://fm.loftwah.com) • [blog.deanlofts.xyz](https://blog.deanlofts.xyz) • [LinkedIn](https://linkedin.com/in/deanlofts)
+[techdeck.life](https://techdeck.life) • [techub.life (GitHub)](https://github.com/TecHub-life/techub) • [techub.life](https://techub.life) • [fm.loftwah.com](https://fm.loftwah.com) • [blog.deanlofts.xyz](https://blog.deanlofts.xyz) • [LinkedIn](https://linkedin.com/in/deanlofts)
 
 ---
 
