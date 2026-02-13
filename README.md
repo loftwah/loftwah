@@ -13,8 +13,6 @@ Senior DevOps Engineer and Cloud Architect specialising in **AWS, Ruby on Rails,
 
 Known for delivering clean, observable systems with **structured logging, telemetry, and composable CI/CD pipelines**. Creator of **TechDeck**, **TecHub**, and **LoftwahFM** — projects showcasing innovation in social analytics, open-source collaboration, and AI-generated media.  
 
-Writes at **[blog.deanlofts.xyz](https://blog.deanlofts.xyz)** about DevOps, AI, and the intersection of creativity and infrastructure.
-
 ---
 
 ## Highlights
