@@ -19,8 +19,6 @@ Writes at **[blog.deanlofts.xyz](https://blog.deanlofts.xyz)** about DevOps, AI,
 
 ## Highlights
 
-- **[TechDeck](https://techdeck.life):** Rails-based platform gamifying developer profiles with social leaderboards and analytics.  
-- **[TecHub](https://github.com/TecHub-life/techub):** Modern Rails 8 app using service-oriented architecture, structured logging, and Axiom integration.  
 - **[LoftwahFM](https://fm.loftwah.com):** AI-powered streaming radio and generative music platform blending beats, voice, and automation.  
 - **[NASA Open MCT PR #5520](https://github.com/nasa/openmct/pull/5520):** Contributed Playwright test automation improving end-to-end reliability.  
 - **AWS Infrastructure Delivery:** Architected a redundant multi-region streaming solution (EC2 + ECS) in under 72 hours to meet a CEO directive.  
