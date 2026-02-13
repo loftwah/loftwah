@@ -3,7 +3,7 @@
 **Software Engineer / DevOps Engineer / Cloud Architect**  
 Melbourne, Australia  
 
-[techdeck.life](https://techdeck.life) • [techub.life (GitHub)](https://github.com/TecHub-life/techub) • [techub.life](https://techub.life) • [fm.loftwah.com](https://fm.loftwah.com) • [blog.deanlofts.xyz](https://blog.deanlofts.xyz) • [LinkedIn](https://linkedin.com/in/deanlofts) • [pizza.deanlofts.xyz](https://pizza.deanlofts.xyz) • [loftwah/react-pizza-demo](https://github.com/loftwah/react-pizza-demo)
+[fm.loftwah.com](https://fm.loftwah.com) • [LinkedIn](https://linkedin.com/in/deanlofts) • [pizza.deanlofts.xyz](https://pizza.deanlofts.xyz) • [loftwah/react-pizza-demo](https://github.com/loftwah/react-pizza-demo)
 
 ---
 
@@ -57,10 +57,4 @@ Writes at **[blog.deanlofts.xyz](https://blog.deanlofts.xyz)** about DevOps, AI,
 
 ---
 
-## Projects
-
-- 🧠 [TechDeck](https://techdeck.life)  
-- 🚧 [TecHub GitHub Repo](https://github.com/TecHub-life/techub)  
 - 🎧 [LoftwahFM](https://fm.loftwah.com)  
-- ✍️ [Blog](https://blog.deanlofts.xyz)  
-- 💼 [LinkedIn](https://linkedin.com/in/deanlofts)
