@@ -9,7 +9,7 @@ Melbourne, Australia
 
 ## About
 
-Senior DevOps Engineer and Cloud Architect specialising in **AWS, Ruby on Rails, and infrastructure automation**. Expert in designing resilient cloud environments and building developer-centric platforms that merge **DevOps, AI, and creative automation**.  
+DevOps Engineer and Cloud Architect specialising in **AWS, Ruby on Rails, and infrastructure automation**. Expert in designing resilient cloud environments and building developer-centric platforms that merge **DevOps, AI, and creative automation**.  
 
 Known for delivering clean, observable systems with **structured logging, telemetry, and composable CI/CD pipelines**. Creator of **LoftwahFM** — a project showcasing innovation in analytics and AI-generated media.  
 
